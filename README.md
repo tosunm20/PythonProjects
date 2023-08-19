@@ -3,5 +3,5 @@ Exaggerated movie reviews on fandango and evaluating these values with the help 
 
 !!! These data belong to 2015 !!!
 
-FOR MORE INFORMATION
+FOR MORE INFORMATION;
 READ THIS ARTICLE:"https://fivethirtyeight.com/features/fandango-movies-ratings/"
